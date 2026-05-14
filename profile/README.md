@@ -33,6 +33,8 @@ Pricing-Modell: One-Time Purchase pro Edition (Community / Enterprise / Magento 
 |---|---|---|
 | [🇪🇺 EU Tax Rate Sync](https://github.com/storetown-media/stm-magento-2-eu-tax-rate-sync) | Automatische Synchronisierung der EU-Mehrwertsteuersätze (27 Länder + CH/GB/NO) mit Auto-Tax-Rule-Erstellung, Cron, E-Mail-Benachrichtigung | **0 € · MIT** |
 
+ Read the story behind this module on dev.to: https://dev.to/stmhamburg/why-we-open-sourced-our-internal-eu-vat-sync-for-magento-2-28ga
+
 Installation per Composer:
 ```bash
 composer require storetown/module-tax-sync
