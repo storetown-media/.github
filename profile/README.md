@@ -20,10 +20,10 @@ Seit 2014. **12+ Jahre** Magento-Spezialisierung. **Hyvä + Luma + Adobe Commerc
 
 | Extension | Was sie löst | Ab |
 |---|---|---|
-| [⚡ Smart One Page Checkout](https://github.com/storetown-media/stm-smart-checkout-magento2) | Checkout auf 1 Seite, 4 Layouts, 8 Payment-Provider, mobile-optimiert | **389 €** |
-| [🔐 B2B Register](https://github.com/storetown-media/stm-b2b-register-magento2) | B2B-Kundenfreischaltung mit Admin-Approval-Workflow | **149 €** |
-| [📎 Attachment Pro](https://github.com/storetown-media/stm-attachment-pro-magento2) | PDF-Datenblätter, Zertifikate, Anleitungen am Produkt — mit Auto-Zuweisung | **149 €** |
-| [💰 Surcharge Max](https://github.com/storetown-media/stm-surcharge-max-magento2) | Zuschnitt-, Sperrgut- und Kategorie-Zuschläge — transparent im Checkout | **99 €** |
+| [⚡ Smart One Page Checkout](https://github.com/storetown-media/stm-magento-2-smart-one-page-checkout) | Checkout auf 1 Seite, 4 Layouts, 8 Payment-Provider, mobile-optimiert | **389 €** |
+| [🔐 B2B Register](https://github.com/storetown-media/stm-magento-2-b2b-customer-registration) | B2B-Kundenfreischaltung mit Admin-Approval-Workflow | **149 €** |
+| [📎 Attachment Pro](https://github.com/storetown-media/stm-magento-2-product-attachments-pro) | PDF-Datenblätter, Zertifikate, Anleitungen am Produkt — mit Auto-Zuweisung | **149 €** |
+| [💰 Surcharge Max](https://github.com/storetown-media/stm-magento-2-surcharge-extension) | Zuschnitt-, Sperrgut- und Kategorie-Zuschläge — transparent im Checkout | **99 €** |
 
 Pricing-Modell: One-Time Purchase pro Edition (Community / Enterprise / Magento Cloud), inkl. 12 Monate Updates + Support.
 
