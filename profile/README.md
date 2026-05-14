@@ -27,6 +27,19 @@ Seit 2014. **12+ Jahre** Magento-Spezialisierung. **Hyvä + Luma + Adobe Commerc
 
 Pricing-Modell: One-Time Purchase pro Edition (Community / Enterprise / Magento Cloud), inkl. 12 Monate Updates + Support.
 
+## 🆓 Plus: 1 kostenlose Open-Source-Extension
+
+| Extension | Was sie löst | Preis |
+|---|---|---|
+| [🇪🇺 EU Tax Rate Sync](https://github.com/storetown-media/stm-magento-2-eu-tax-rate-sync) | Automatische Synchronisierung der EU-Mehrwertsteuersätze (27 Länder + CH/GB/NO) mit Auto-Tax-Rule-Erstellung, Cron, E-Mail-Benachrichtigung | **0 € · MIT** |
+
+Installation per Composer:
+```bash
+composer require storetown/module-tax-sync
+```
+
+Quellcode auf GitHub · auf [Packagist](https://packagist.org/packages/storetown/module-tax-sync) registriert · Bug-Reports + Feature-Requests + Pull-Requests willkommen.
+
 ## Warum Storetown-Media
 
 - 🇩🇪 **DACH-Hauptmarkt** — Pricing, Versand-Logik, B2B-Workflows aus Praxis im deutschen E-Commerce
@@ -37,7 +50,7 @@ Pricing-Modell: One-Time Purchase pro Edition (Community / Enterprise / Magento 
 
 ## Live-Demo
 
-Jedes unserer 4 Hauptprodukte ist live ausprobierbar — Frontend + Backend mit Auto-Login:
+Alle 4 kommerziellen Produkte sind live ausprobierbar — Frontend + Backend mit Auto-Login. Die kostenlose EU-Tax-Rate-Sync ist direkt per Composer installierbar:
 
 - **Demo-Shop:** [magento2-shop.de](https://magento2-shop.de/)
 - **Backend-Auto-Login:** `magento2-shop.de/demorole/autologin?token=demo2024stm`
@@ -47,10 +60,10 @@ Jedes unserer 4 Hauptprodukte ist live ausprobierbar — Frontend + Backend mit 
 
 - ✅ 4 Demo-Videos live (April 2026)
 - ✅ VideoObject + Product-Schema (April–Mai 2026)
+- ✅ **EU Tax Rate Sync auf Packagist** (Mai 2026) — `composer require storetown/module-tax-sync`
 - 🔄 Adobe Commerce Marketplace Approval (eingereicht — läuft)
 - 🔄 Hyvä Themes Partner Directory (Approval läuft)
 - 🔄 Capterra + G2 Vendor Listings (Approval läuft)
-- ⏳ Packagist-Distribution (geplant Q3/2026)
 - ⏳ Reseller-Programm für DACH-Magento-Agenturen (15–25% Provision)
 
 ## Kontakt
